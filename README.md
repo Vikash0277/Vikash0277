@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vikash Prasad
 
-🚀 Full-Stack Developer | 💡 Problem Solver | 🧠 Tech Enthusiast | 🏥 Building a Healthcare Startup
+🚀 Full-Stack Developer | 💡 Problem Solver | 🧠 Tech Enthusiast
 
 ---
 
