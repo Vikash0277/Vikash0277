@@ -34,12 +34,7 @@ I'm a passionate developer who enjoys building full-stack applications, solving 
 
 ---
 
-## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vikash0277&show_icons=true&theme=tokyonight" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vikash0277&theme=tokyonight" width="49%" />
-</p>
 
 ---
 
